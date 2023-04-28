@@ -1,4 +1,4 @@
-package com.fesenkodenis;
+package com.denisfesenko;
 
 /**
  * In a 2D matrix, every row ins increasingly sorted from left to right. Last number in each row is not

@@ -1,4 +1,4 @@
-package com.fesenkodenis;
+package com.denisfesenko;
 
 import java.math.BigDecimal;
 import java.math.MathContext;

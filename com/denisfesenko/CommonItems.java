@@ -1,4 +1,4 @@
-package com.fesenkodenis;
+package com.denisfesenko;
 
 import java.util.Collections;
 import java.util.HashSet;

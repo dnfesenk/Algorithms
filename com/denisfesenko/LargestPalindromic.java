@@ -1,4 +1,4 @@
-package com.fesenkodenis;
+package com.denisfesenko;
 
 /**
  * You are given a string S, consisting entirely of decimal digits (0-9). Your task is to create the largest possible

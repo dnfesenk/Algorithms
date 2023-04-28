@@ -1,4 +1,4 @@
-package com.fesenkodenis;
+package com.denisfesenko;
 
 public class ReversLinkedList {
     public static void main(String[] args) {

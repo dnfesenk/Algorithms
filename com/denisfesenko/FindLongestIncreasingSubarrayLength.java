@@ -1,4 +1,4 @@
-package com.fesenkodenis;
+package com.denisfesenko;
 
 /**
  * Find the length of the longest increasing subarray

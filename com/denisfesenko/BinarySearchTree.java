@@ -1,4 +1,4 @@
-package com.fesenkodenis;
+package com.denisfesenko;
 
 /**
  * Write java function to find some element in binary search tree

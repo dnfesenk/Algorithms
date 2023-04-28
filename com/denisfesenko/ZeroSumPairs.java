@@ -1,4 +1,4 @@
-package com.fesenkodenis;
+package com.denisfesenko;
 
 import java.util.HashMap;
 import java.util.Map;
