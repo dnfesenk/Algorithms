@@ -34,7 +34,7 @@ class LargestPalindromic {
 
         for (int i = 9; i >= 0; i--) {
             while (count[i] > 1) {
-                if (!leftPart.isEmpty() || i != 0) {
+                if (leftPart.length() != 0 || i != 0) {
                     leftPart.append(i);
                 }
                 count[i] -= 2;

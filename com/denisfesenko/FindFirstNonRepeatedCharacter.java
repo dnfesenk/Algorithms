@@ -16,7 +16,7 @@ public class FindFirstNonRepeatedCharacter {
     }
 
     public static Character findFirstNonRepeatedCharacterOne(String input) {
-        if (!input.isBlank()) {
+        if (!input.isEmpty()) {
             var map = new HashMap<Character, Integer>();
             var array = input.toCharArray();
             var length = input.length();
@@ -44,7 +44,7 @@ public class FindFirstNonRepeatedCharacter {
      * This modification retains the O(n) time complexity and improves the code readability.
      */
     public static Character findFirstNonRepeatedCharacterTwo(String input) {
-        if (input == null || input.isBlank()) {
+        if (input == null || input.isEmpty()) {
             return null;
         }
 
