@@ -1,4 +1,4 @@
-package com.denisfesenko;
+package com.denisfesenko.leetcode.easy;
 
 /**
  * 9. Palindrome Number

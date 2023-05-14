@@ -1,4 +1,4 @@
-package com.denisfesenko;
+package com.denisfesenko.leetcode.medium;
 
 /**
  * You are given a string S, consisting entirely of decimal digits (0-9). Your task is to create the largest possible
@@ -9,10 +9,10 @@ package com.denisfesenko;
  * Among these, "989" is the largest. This function should take a string S containing N digits and return the string
  * representing the largest palindromic number that can be formed.
  */
-class LargestPalindromic {
+class LargestPalindromicNumber {
 
     public static void main(String[] args) {
-        LargestPalindromic sol = new LargestPalindromic();
+        LargestPalindromicNumber sol = new LargestPalindromicNumber();
         System.out.println(sol.solution("39878")); // Output: "898"
         System.out.println(sol.solution("00900")); // Output: "9"
         System.out.println(sol.solution("0000")); // Output: "0"

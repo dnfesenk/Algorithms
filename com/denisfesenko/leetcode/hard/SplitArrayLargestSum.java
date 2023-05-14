@@ -1,4 +1,4 @@
-package com.denisfesenko;
+package com.denisfesenko.leetcode.hard;
 
 /**
  * 410. Split Array Largest Sum

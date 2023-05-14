@@ -1,4 +1,4 @@
-package com.denisfesenko;
+package com.denisfesenko.leetcode.easy;
 
 import java.util.HashMap;
 import java.util.Map;
